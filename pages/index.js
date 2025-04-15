@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Teste Supreme</h1>
+    return <h1>Calma calabreso</h1>
 }
 
 export default Home;
